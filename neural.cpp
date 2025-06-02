@@ -2,7 +2,7 @@
 #include <iterator>
 #include <algorithm>
 #include <iostream>
-#include<C:\Users\john-\Desktop\Coding\C++_Libraries\eigen-3.4.0\Eigen\Dense>
+#include "lib/eigen-3.4.0/Eigen/Dense"
  
 using Eigen::MatrixXd;
  
